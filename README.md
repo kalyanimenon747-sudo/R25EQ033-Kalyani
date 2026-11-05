@@ -1,0 +1,1 @@
+Hi, I am a second-year Computer Science Engineering student. I am interested in programming and software development. This repository is created as part of my Portfolio Building activity to showcase my skills and learning progress.
