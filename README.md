@@ -1,1 +1,1 @@
-# R25EQ033-Kalyani
+Hi, I am a second-year Computer Science Engineering student. I am interested in programming and software development. This repository is created as part of my Portfolio Building activity to showcase my skills, interests and learning progress.# R25EQ033-Kalyani
